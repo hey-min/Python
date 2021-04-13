@@ -2,9 +2,9 @@
 """
 Created on Wed Apr  7 09:59:31 2021
 
-@author: Kiost
+@author: hey-min chhoi
 
-Accuracy
+Accuracy Test : R2, RMSE, MAPE
 
 """
 
